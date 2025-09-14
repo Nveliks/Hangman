@@ -1,0 +1,40 @@
+       Hello it's a hangman game
+ to start the game choose category of word
+
+ print number to choose category 
+ 1 - fruits
+ 2 - sports
+ 3 - geography 
+print number to choose game level print
+ 1 - easy
+ 2 - medium
+ 3 - hard 
+You can make 6 mistakes
+
+Guess a word:
+   ______
+Enter a letter
+You can make 6 mistakes
+
+Guess a word:
+   e____e
+Enter a letter
+You can make 6 mistakes
+
+Guess a word:
+   e_r__e
+Enter a letter
+You can make 6 mistakes
+
+Guess a word:
+   eur__e
+Enter a letter
+You can make 6 mistakes
+
+Guess a word:
+   euro_e
+Enter a letter
+
+The answer is europe
+   You win!!!
+Congratilation!!!

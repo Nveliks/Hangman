@@ -1,0 +1,62 @@
+       Hello it's a hangman game
+ to start the game choose category of word
+
+ print number to choose category 
+ 1 - fruits
+ 2 - sports
+ 3 - geography 
+print number to choose game level print
+ 1 - easy
+ 2 - medium
+ 3 - hard 
+You can make 3 mistakes
+
+Guess a word:
+   ______
+Enter a letter
+You can make 2 mistakes
+ |
+ |
+ |
+ |
+ |
+___
+Guess a word:
+   ______
+Enter a letter
+You can make 1 mistakes
+ |---------
+ |        |
+ |        O
+ |
+ |
+___
+  The hint:
+Part of the west world
+Guess a word:
+   ______
+Enter a letter
+You print wrong symbol
+Enter a letter
+You can make 1 mistakes
+ |---------
+ |        |
+ |        O
+ |
+ |
+___
+  The hint:
+Part of the west world
+Guess a word:
+   ___o__
+Enter a letter
+You print wrong symbol
+Enter a letter
+ |---------
+ |        |
+ |        O
+ |       /|\
+ |       / \
+___
+The answer is europe
+     You lose

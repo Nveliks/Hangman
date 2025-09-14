@@ -1,0 +1,10 @@
+model/WriterService$MessengersForUsers.class
+model/Game$NumberOfMistakes.class
+model/Game.class
+model/PictureStorage.class
+model/Main.class
+model/InputService.class
+model/WordBank.class
+model/WordBank$Categories.class
+model/IllegalInputFormatException.class
+model/WriterService.class
